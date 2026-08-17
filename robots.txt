@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://curriculum.hifeeeh.com/sitemap.xml
+Sitemap: https://curriculum.glitchk.id/sitemap.xml

@@ -1,4 +1,4 @@
-# curriculum.hifeeeh.com
+# curriculum.glitchk.id
 
 Meu currículo atualizado, sempre. :)
 
