@@ -1,6 +1,8 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Currículo - Felipe G. Brandão",
+    "short_name": "Currículo",
+    "lang": "pt-BR",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
